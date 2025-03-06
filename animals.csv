@@ -1,0 +1,5 @@
+name,species,age,adopted,owner,email,phone,address
+finley,dog,1,TRUE,brianna stein, bstein12@ivytech.edu, 123-456-7890, 111 main st griffith indiana
+esme,cat,3,FALSE
+maeve,dog,2,FALSE
+gus,dog,2,TRUE, john doe, johndoe@gmail.com, 233-322-2323, 456 pine st woodridge illinois
